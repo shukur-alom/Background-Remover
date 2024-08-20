@@ -1,0 +1,4 @@
+gradio==4.41.0
+opencv-python==4.10.0.84
+numpy==1.26.4
+ultralytics==8.2.78
