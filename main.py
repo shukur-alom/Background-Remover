@@ -2,7 +2,7 @@ import cv2
 from ultralytics import SAM
 import numpy as np
 
-model = SAM("MODEL/sam2_l.pt")
+model = SAM("sam2_l.pt")
 
 start_point = None
 end_point = None

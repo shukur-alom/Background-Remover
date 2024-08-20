@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 from ultralytics import SAM
 
-model = SAM("MODEL/sam2_l.pt")
+model = SAM("sam2_l.pt")
 
 ROI_coordinates = {
     'x_temp': 0,
